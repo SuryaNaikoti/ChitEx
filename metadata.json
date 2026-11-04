@@ -1,0 +1,6 @@
+{
+  "name": "Nectar - Voice-First Social Discovery",
+  "description": "Voice-first social discovery and entertainment platform for India featuring real-time audio connections, premium calling, coin wallet economy, and creator gifting.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
